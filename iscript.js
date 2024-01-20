@@ -1,3 +1,7 @@
+//  Nooooooo  //
+//  改変や複製を一切禁止します。  //
+//  https://github.com/Nooooooo-0328/Clock-site  //
+
 function appendToDisplay(value) {
   document.getElementById("display").value += value;
   document.getElementById("error-message").innerText = "";
